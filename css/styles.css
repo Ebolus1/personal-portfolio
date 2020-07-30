@@ -110,3 +110,7 @@ a.nav-link:hover   {
   color: #fff;
 }
 
+a.card-link,
+a.card-link:hover {
+  color: inherit;
+}
