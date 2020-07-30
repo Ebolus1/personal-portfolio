@@ -87,3 +87,15 @@ a.nav-link:hover   {
   font-weight: 600;
   color: #fff;
 }
+
+.card-btn {
+  background-color: #FF6705;
+  border-radius: 20px;
+  width:80%;
+  color:#fff;
+}
+
+.card-btn:hover  {
+  background-color: #FFA062;
+  color: #fff;
+}
