@@ -9,6 +9,11 @@ font-family: 'Poppins', sans-serif;
   padding-bottom:40px;
 }
 
+
+a.logo-type:hover{
+  text-decoration: none;
+}
+
 a.logo-type{
 font-size: 28px !important;
 color: #000;
@@ -67,6 +72,11 @@ a.nav-link:hover   {
 
 .card {
   border-radius: 15px;
+  transition: all .2s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.1); 
 }
 
 .card-text{
@@ -99,3 +109,4 @@ a.nav-link:hover   {
   background-color: #FFA062;
   color: #fff;
 }
+
