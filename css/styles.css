@@ -1,0 +1,89 @@
+* {
+font-family: 'Poppins', sans-serif;
+}
+
+/*Nav Bar Styling*/
+
+.navbar {
+  padding-top:40px;
+  padding-bottom:40px;
+}
+
+a.logo-type{
+font-size: 28px !important;
+color: #000;
+font-weight: 100;
+}
+
+a.nav-link   {
+  color: #000 !important;
+font-weight: 600;
+}
+
+a.nav-link:hover   {
+  color: #999 !important;
+}
+
+/*hero styling*/
+.hero {
+  min-height:65vh;
+}
+
+.hero-title {
+  font-size: 3.0em;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.hero-sub-title{
+  font-size: 1.5rem;
+}
+
+.button-container{
+  margin: 1.5rem 0;
+}
+
+.btn-main-blue {
+  background-color: #50BDF4;
+  border-radius: 20px;
+  width: 180px;
+  font-size: 16px;
+  color: #fff;
+  font-weight: 600;
+}
+
+.btn-main-blue:hover {
+  background-color:#8CCCEB;
+  color: #fff;
+}
+
+.profile-image-col{
+  padding:5%;
+}
+
+.bio {
+  line-height: 1.7;
+}
+
+.card {
+  border-radius: 15px;
+}
+
+.card-text{
+  font-size: 14px;
+  color: #5C5C5C;
+}
+
+.card-body h4 {
+  font-weight: 600 ;
+}
+
+.footer {
+  background-color: #50BDF4;
+}
+
+.footer-text {
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+}
